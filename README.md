@@ -1,1 +1,1 @@
-# pingpong-scratch
+# Meu primeiro jogo feito no Scratch.
